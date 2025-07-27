@@ -1,17 +1,22 @@
-# ✨ Full Stack Realtime Chat App ✨
+# ✨ Full Stack Realtime Chat App
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+A real-time chat application built with the **MERN stack**, **Socket.io**, **Zustand**, and styled using **TailwindCSS** & **Daisy UI**.
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+---
 
-Highlights:
+## 🔥 Features & Tech Stack
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
+- 🌟 **MERN Stack** (MongoDB, Express, React, Node.js)
+- 👾 Real-time messaging via **Socket.io**
+- 🎃 Authentication & Authorization using **JWT**
+- 🚀 Online user status indicators
+- 🌐 Global state management with **Zustand**
+- 💅 Styled with **TailwindCSS + Daisy UI**
+- 🐞 Full error handling (client & server)
+- 📸 Image upload support with **Cloudinary**
+- 📦 Production-ready & easily deployable
+
+---
 
 ### Setup .env file
 
